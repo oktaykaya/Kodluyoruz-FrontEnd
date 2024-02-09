@@ -1,0 +1,22 @@
+.kırmızı{
+    color: red;
+}
+.turuncu{
+    color: orange;
+}
+.mor{
+    color: purple;
+}
+.ort{
+    text-align: center;
+    list-style-type: none;
+}
+.containerbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh; /* Sayfa yüksekliği kadar genişletmek için */
+  }
+  .bacground{
+    background-color: #E9ECEF;
+  }
